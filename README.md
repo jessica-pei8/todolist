@@ -1,6 +1,6 @@
 # To-Do List Application with Authentication  
 
-This project is a full-stack To-Do list application featuring user authentication and persistent storage for tasks. It leverages modern web development technologies to ensure a secure and interactive user experience.  
+This project is a full-stack To-Do list application featuring user authentication and persistent storage for tasks.
 
 ## Features  
 
